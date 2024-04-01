@@ -22,4 +22,4 @@ The next thing I would like to add to this Bot is a blackjack function that allo
 
 
 
-                                                                                                                                                                    Devoloped by: David Tincher 
+Developed by: David Tincher 
